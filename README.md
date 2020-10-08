@@ -1,0 +1,7 @@
+# HighLavelProgrammingLab1
+
+Task: Given an integer array of size N. Convert it by adding the last even element to the odd numbers. Do not change the first and last elements of the array.
+
+
+Task was solved through pointers. The second "for" is looking for last even element. It was implemented from end of the array because it easier than from begin. 
+The third "for" is looking for all odd elements and add to them that even element.
