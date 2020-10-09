@@ -5,3 +5,5 @@ Task: Given an integer array of size N. Convert it by adding the last even eleme
 
 Task was solved through pointers. The second "for" is looking for last even element. It was implemented from end of the array because it easier than from begin. 
 The third "for" is looking for all odd elements and add to them that even element.
+
+Reports are written on russian.
