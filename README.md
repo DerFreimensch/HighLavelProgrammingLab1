@@ -7,3 +7,5 @@ Task was solved through pointers. The second "for" is looking for last even elem
 The third "for" is looking for all odd elements and add to them that even element.
 
 Reports are written on russian.
+
+Link for watching and commenting google docs document: https://docs.google.com/document/d/1X-skyehbDbwDuPL9Joy8pvqseVg72XwQx-_9KmOVA3w/edit?usp=sharing
