@@ -24,6 +24,7 @@
     <ProjectGuid>{b362e12e-d635-4c67-b02d-9d8159c7408a}</ProjectGuid>
     <RootNamespace>ProcofievaLab1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>ProcofievaLabs</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +141,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Code.c" />
+    <ClCompile Include="LAB1_23.c" />
+    <ClCompile Include="LAB1_9.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
